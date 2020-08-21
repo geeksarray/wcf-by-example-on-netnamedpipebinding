@@ -12,7 +12,7 @@ However, messages are secured as only the same machine can call the service oper
 
 You can add Reference to client using net.pipe like
 
-![Add reference to client using net.pipe](http://dotnetmentors.com/Images/NetNamedPipeBinding-Reference.png)
+![Add reference to client using net.pipe](https://geeksarray.com/images/blog/NetNamedPipeBinding-Reference.png)
 
 
 
