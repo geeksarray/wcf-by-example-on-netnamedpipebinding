@@ -14,5 +14,7 @@ You can add Reference to client using net.pipe like
 
 ![Add reference to client using net.pipe](http://dotnetmentors.com/Images/NetNamedPipeBinding-Reference.png)
 
+
+
 for more details visit - https://geeksarray.com/blog/wcf-by-example-on-netnamedpipebinding
 
